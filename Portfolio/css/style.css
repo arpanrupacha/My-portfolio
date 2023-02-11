@@ -29,19 +29,6 @@ nav {
     padding: 20px 8%;
 
 }
-
-nav .menu-img {
-    width: 25px;
-    margin-right: 20px;
-    cursor: pointer;
-}
-
-nav .logo {
-    width: 160px;
-    cursor: pointer;
-    
-}
-
 nav ul {
     flex: 1;
     text-align: right;
@@ -56,6 +43,7 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #fff;
+    
 }
 
 .text-container{
@@ -75,3 +63,22 @@ nav ul li a {
     margin-left: 20vh;
     margin-top: 8vh;
 }
+.text-container a {
+    box-sizing:border-box;
+    display:block;
+    padding: 10px 20px;
+    background: orange;
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    line-height: 1.4;
+    font-weight: 700;
+    transition: all 0.5s ease;    
+}
+
+.text-container a:hover{
+    background: black;
+    color: orange;
+}
+
