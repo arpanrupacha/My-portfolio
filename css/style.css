@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Inter&family=Maven+Pro&family=Montserrat:wght@500;600&family=Righteous&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    /* font-family: 'poppins', sans-serif; */
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Cinzel', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Maven Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Righteous', cursive;
+}
+
+.hero {
+    background: #1d2026;
+    min-height: 100vh;
+    width: 100%;
+    color: #fff;
+    position: relative;
+}
+/* ==nav== */
+nav {
+    display: flex;
+    align-items: center;
+    padding: 20px 8%;
+
+}
+nav ul {
+    flex: 1;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+.text-container{
+    max-width: 600px;
+    margin-top: 7%;
+    margin-left: 50%;
+}
+.text-container h1{
+    font-size: 80px;
+    font-weight: 400;
+}
+
+.image img{
+    width: 60vh;
+    height: 80vh;
+    position: absolute;
+    margin-left: 20vh;
+    margin-top: 8vh;
+}
+.text-container a {
+    box-sizing:border-box;
+    display:block;
+    padding: 10px 20px;
+    background: orange;
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    line-height: 1.4;
+    font-weight: 700;
+    transition: all 0.5s ease;    
+}
+
+.text-container a:hover{
+    background: black;
+    color: orange;
+}
+
