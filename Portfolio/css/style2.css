@@ -15,7 +15,7 @@ body {
     font-family: 'Righteous', cursive;
 }
 
-.hero {
+.Education {
     background: #1d2026;
     min-height: 100vh;
     width: 100%;
@@ -23,55 +23,23 @@ body {
     position: relative;
 }
 /* ==nav== */
-nav {
+.education nav {
     display: flex;
     align-items: center;
-    padding: 20px 8%;
+    padding: 20px;
 
 }
-
-nav .menu-img {
-    width: 25px;
-    margin-right: 20px;
-    cursor: pointer;
-}
-
-nav .logo {
-    width: 160px;
-    cursor: pointer;
-    
-}
-
-nav ul {
-    flex: 1;
-    text-align: right;
-}
-
-nav ul li {
-    display: inline-block;
-    list-style: none;
-    margin: 0 20px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #fff;
+.education nav h1{
+    font-size: 50px;
 }
 
 .text-container{
-    max-width: 600px;
-    margin-top: 7%;
-    margin-left: 50%;
+    margin-top: 3%;
+    margin-left: 1%;
 }
-.text-container h1{
-    font-size: 80px;
-    font-weight: 400;
+.text-container h2{
+    font-size: 50px;
 }
-
-.image img{
-    width: 60vh;
-    height: 80vh;
-    position: absolute;
-    margin-left: 20vh;
-    margin-top: 8vh;
+.text-container p{
+    font-size: 40px;
 }

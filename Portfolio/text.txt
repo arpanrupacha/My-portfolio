@@ -1,0 +1,17 @@
+About
+Hi, I am Arpan Sunwar and I am from gokarna, kathmandu. I am a student at Herald College Kathmandu and I am currently studying IT course. As for my family there are three members in my family, me and my father and mother. I completed my SEE education from Shangri-La Public School and I completed my +2 education from St. Lawrence College. I am currently working as a front-end beginner web developer.
+
+Family
+There are three members in my family:
+Members Name                 Occupation
+Father  Lok Bahadur Sunuwar  Priest
+Mother  Kalpana Sunuwar      House Wife
+Me      Arpan Sunuwar        Student
+
+Education
+School/College Name   affiliation   Grade
+Shangri-La Public      NEB          3.6
+St. Lawrence           NEB          3.1
+
+Hobby
+My hobby is in playing musical instrument and singing. I play paino most of the time and i can play other instruments like Guitar, Drum set, Base guitar. I like to play games too like Genshin Impact, Valorant and Battlefield V.
